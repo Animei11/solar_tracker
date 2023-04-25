@@ -1,3 +1,6 @@
+# This code moves the panel a predetermined degree every hour or how often you wish it to
+
+
 #include <Servo.h>
 
 // Assign Pin Connections and variables
