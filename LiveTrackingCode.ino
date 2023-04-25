@@ -1,3 +1,5 @@
+# This code tracks the sunlight and the panel will move wherever the voltage is higher 
+
 #include <Servo.h>
 //create servos
 Servo vertical;
